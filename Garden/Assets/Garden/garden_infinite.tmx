@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.3" orientation="isometric" renderorder="right-up" width="100" height="100" tilewidth="512" tileheight="256" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="1_3_Grass" tilewidth="512" tileheight="256" tilecount="1" columns="1">
+  <image source="1_3_Grass.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="2" name="BushyTree_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="BushyTree_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3" name="BushyTree_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="BushyTree_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4" name="BushyTree_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="BushyTree_3.png" width="512" height="1152"/>
+ </tileset>
+ <tileset firstgid="5" name="Cactus_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Cactus_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6" name="Cactus_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Cactus_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7" name="Cactus_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Cactus_3.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="8" name="Elk_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Elk_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9" name="Elk_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Elk_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="10" name="Elk_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Elk_3.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="11" name="Palm_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Palm_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="12" name="Palm_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Palm_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="13" name="Palm_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Palm_3.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="14" name="Bush_Red_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Bush_Red_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="15" name="Bush_Red_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Bush_Red_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="16" name="Bush_Red_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Bush_Red_3.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="17" name="Bush_White_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Bush_White_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="18" name="Bush_White_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Bush_White_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="19" name="Bush_White_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Bush_White_3.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="20" name="Bush_Yellow_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Bush_Yellow_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="21" name="Bush_Yellow_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Bush_Yellow_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="22" name="Bush_Yellow_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Bush_Yellow_3.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="23" name="Flowers_Red_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Flowers_Red_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="24" name="Flowers_Red_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Flowers_Red_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="25" name="Flowers_Red_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Flowers_Red_3.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="26" name="Flowers_White_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Flowers_White_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="27" name="Flowers_White_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Flowers_White_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="28" name="Flowers_White_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Flowers_White_3.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="29" name="Flowers_Yellow_1" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Flowers_Yellow_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="30" name="Flowers_Yellow_2" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Flowers_Yellow_2.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="31" name="Flowers_Yellow_3" tilewidth="512" tileheight="1024" tilecount="1" columns="1">
+  <image source="Flowers_Yellow_3.png" width="512" height="1024"/>
+ </tileset>
+ <layer id="1" name="background" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKH7/qUHy6Hgqqmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqv8AX0MnEQ==
+  </data>
+ </layer>
+ <layer id="2" name="garden" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+ <layer id="3" name="object" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+</map>

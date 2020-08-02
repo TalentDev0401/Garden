@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>renderQuality</key>
+	<integer>3</integer>
+	<key>objectRenderQuality</key>
+	<integer>8</integer>
+	<key>textRenderQuality</key>
+	<integer>8</integer>
+	<key>maxRenderQuality</key>
+	<integer>8</integer>
+	<key>showObjects</key>
+	<false/>
+	<key>drawGrid</key>
+	<false/>
+	<key>drawAnchor</key>
+	<false/>
+	<key>enableEffects</key>
+	<false/>
+	<key>updateMode</key>
+	<integer>0</integer>
+	<key>loggingLevel</key>
+	<integer>6</integer>
+	<key>renderCallbacks</key>
+	<false/>
+	<key>cameraCallbacks</key>
+	<false/>
+	<key>mouseFilters</key>
+	<integer>9</integer>
+	<key>ignoreZoomConstraints</key>
+	<true/>
+	<key>usePreviousCamera</key>
+	<false/>
+	<key>allowUserMaps</key>
+	<true/>
+	<key>demoFiles</key>
+	<array>
+		<string>garden_infinite</string>
+	</array>
+</dict>
+</plist>
